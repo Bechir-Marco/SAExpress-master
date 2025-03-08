@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.filedemo.test.TestApp
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 18.243 s <<< FAILURE! - in com.example.filedemo.test.TestApp
+testPersonnel  Time elapsed: 0.476 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <3> but was: <1>
+	at com.example.filedemo.test.TestApp.testPersonnel(TestApp.java:48)
+
