@@ -81,6 +81,7 @@ E:\Downloads\SAExpress-master\src\main\java\com\example\filedemo\controller\User
 E:\Downloads\SAExpress-master\src\main\java\com\example\filedemo\payload\HubPayload.java
 E:\Downloads\SAExpress-master\src\main\java\com\example\filedemo\repository\DBFileRepository.java
 E:\Downloads\SAExpress-master\src\main\java\com\example\filedemo\repository\DispatchRepository.java
+E:\Downloads\SAExpress-master\src\main\java\com\example\filedemo\config\JWTAuthorizationFilter.java
 E:\Downloads\SAExpress-master\src\main\java\com\example\filedemo\repository\DebriefRepository.java
 E:\Downloads\SAExpress-master\src\main\java\com\example\filedemo\model\Response.java
 E:\Downloads\SAExpress-master\src\main\java\com\example\filedemo\payload\JwtRequest.java
@@ -130,7 +131,6 @@ E:\Downloads\SAExpress-master\src\main\java\com\example\filedemo\payload\Anomali
 E:\Downloads\SAExpress-master\src\main\java\com\example\filedemo\model\Charge.java
 E:\Downloads\SAExpress-master\src\main\java\com\example\filedemo\service\ColisService.java
 E:\Downloads\SAExpress-master\src\main\java\com\example\filedemo\model\ConsoleEtat.java
-E:\Downloads\SAExpress-master\src\main\java\com\example\filedemo\config\JWTAuthorizationFiler.java
 E:\Downloads\SAExpress-master\src\main\java\com\example\filedemo\config\SecurityParams.java
 E:\Downloads\SAExpress-master\src\main\java\com\example\filedemo\config\JwtTokenUtil.java
 E:\Downloads\SAExpress-master\src\main\java\com\example\filedemo\model\RunsheetEtat.java

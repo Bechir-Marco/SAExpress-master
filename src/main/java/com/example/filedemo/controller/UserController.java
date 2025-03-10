@@ -35,6 +35,7 @@ import org.springframework.web.multipart.MultipartFile;
 import com.example.filedemo.config.JwtTokenUtil;
 import com.example.filedemo.model.Colis;
 import com.example.filedemo.model.Fournisseur;
+import com.example.filedemo.model.Roles;
 import com.example.filedemo.model.User;
 import com.example.filedemo.payload.JwtRequest;
 import com.example.filedemo.repository.UserRepository;
@@ -68,6 +69,7 @@ public class UserController {
 	public ResponseEntity register(@RequestBody() User user) throws IOException {
 		User userPostRegister =null;
 		try {
+			
 			userPostRegister = userService.saveUser(user);
 		} catch (Exception ex) {
 			ex.printStackTrace();

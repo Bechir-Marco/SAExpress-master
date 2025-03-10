@@ -34,6 +34,7 @@ com\example\filedemo\repository\HubRepository.class
 com\example\filedemo\service\SocietePrincipalServiceImpl.class
 com\example\filedemo\payload\ColisHubsResponsePayload.class
 com\example\filedemo\payload\DispatchPayload.class
+com\example\filedemo\config\JWTAuthorizationFilter.class
 com\example\filedemo\config\WebSecurityConfig.class
 com\example\filedemo\repository\SocietePrincipalRepository.class
 com\example\filedemo\repository\TicketRepository.class
@@ -55,7 +56,6 @@ com\example\filedemo\twilio\TwilioConfiguration.class
 com\example\filedemo\controller\RunsheetController.class
 com\example\filedemo\repository\FactureRepository.class
 com\example\filedemo\payload\AuditColis.class
-com\example\filedemo\config\JWTAuthorizationFiler.class
 com\example\filedemo\service\EmailService.class
 com\example\filedemo\payload\ConsolePayload.class
 com\example\filedemo\model\PDFGenerator.class
